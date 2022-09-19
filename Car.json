@@ -1,0 +1,37 @@
+[{
+  "_id": "2",
+  "name": "Alto",
+  "manufacturer": "Maruti",
+  "seq": 0,
+  "_class": "org.collins.rest.restPrac12.model.Car"
+},{
+  "_id": "3",
+  "name": "Accent",
+  "manufacturer": "Hyundai",
+  "seq": 0,
+  "_class": "org.collins.rest.restPrac12.model.Car"
+},{
+  "_id": "1",
+  "name": "800",
+  "manufacturer": "Maruti",
+  "seq": 0,
+  "_class": "org.collins.rest.restPrac12.model.Car"
+},{
+  "_id": "5",
+  "name": "Octavia",
+  "manufacturer": "Skoda",
+  "seq": 0,
+  "_class": "org.collins.rest.restPrac12.model.Car"
+},{
+  "_id": "4",
+  "name": "Spark",
+  "manufacturer": "Chevy",
+  "seq": 0,
+  "_class": "org.collins.rest.restPrac12.model.Car"
+},{
+  "_id": "6",
+  "name": "Xcent",
+  "manufacturer": "Hyundai",
+  "seq": 0,
+  "_class": "org.collins.rest.restPrac12.model.Car"
+}]

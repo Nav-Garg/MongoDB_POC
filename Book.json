@@ -1,0 +1,31 @@
+[{
+  "_id": 101,
+  "bookName": "R",
+  "authorName": "S. Singh",
+  "_class": "org.collins.rest.restPrac12.model.Book"
+},{
+  "_id": 102,
+  "bookName": "C",
+  "authorName": "J. King",
+  "_class": "org.collins.rest.restPrac12.model.Book"
+},{
+  "_id": 103,
+  "bookName": "Spring Boot",
+  "authorName": "S. Singh",
+  "_class": "org.collins.rest.restPrac12.model.Book"
+},{
+  "_id": 104,
+  "bookName": "Hibernate",
+  "authorName": "S. Sham",
+  "_class": "org.collins.rest.restPrac12.model.Book"
+},{
+  "_id": 0,
+  "bookName": "C++",
+  "authorName": "J. K. Simon",
+  "_class": "org.collins.rest.restPrac12.model.Book"
+},{
+  "_id": 106,
+  "bookName": "C++",
+  "authorName": "J. K. Simon",
+  "_class": "org.collins.rest.restPrac12.model.Book"
+}]
